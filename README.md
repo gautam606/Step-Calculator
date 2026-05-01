@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+✅ Instant calculations - Enter total height, riser, and tread → Get results immediately
+✅ Building code compliant - Uses standard 7" riser / 11" tread guidelines
+✅ Perfect riser adjustment - Automatically adjusts riser height to fit exact total height
+✅ Responsive design - Works perfectly on desktop, tablet, and mobile
+✅ Modern UI - Beautiful gradients, animations, and glassmorphism effects
+✅ Input validation - Prevents invalid calculations
+✅ Reset functionality - Clear and start over anytime
+>>>>>>> 89c265e702bd78075fc03e9b0e59817a364e721b
